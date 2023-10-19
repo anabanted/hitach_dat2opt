@@ -3,7 +3,7 @@ import argparse
 import numpy as np
 
 parser = argparse.ArgumentParser()
-parser.add_argument("file", help="path to opt file", type=str)
+parser.add_argument("file", help="path to dat file", type=str)
 
 args = parser.parse_args()
 
