@@ -1,4 +1,4 @@
-# hitach_dat2opt
+# hitachi_dat2opt
 ## how to use
 ```
 python translator.py /path/to/dat/file.dat
